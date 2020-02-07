@@ -1,6 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import ymlFile from './tree.yml';
+// class Tree extends React.Component {
+  // componentDidMount() {
+  //   console.log('componentDidMount');
+  //   console.log(doc);
+  // }
 
 function App() {
   return (
